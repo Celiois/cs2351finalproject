@@ -1,0 +1,31 @@
+1. Simple Shell Implementation
+2a. I selected this project because it seemed like the best project to adequately show what I have learned in this UNIX class. The other projects seemed to have to use C++ or other programming languages. I wanted to keep it to shell scripts and bash more specifically, so anything else was out of question. 
+2b. My project is the shell script. This project needs to execute commands such as: is, pwd, and cd. It also needs to have support for piping and redirection. I plan to implemnt job control or background processes if time permits. The main thing is for it to be able to do the first two.
+2c. I am trying to solve the problem of not knowing how to run a simple shell script. I can learn about it by doing it in this project. I have no clue how to do it yet, but after I make this report I will read on it while I'm working on it. I usually just do things all at once and don't plan everything 2 weeks in advance, but it's cool. This is the problem and the solution is to do it.
+2d. The solution is to use my useful handy-dandy web browser called LibreWolf, because I do not trust Google Chrome, Firefox, Edge, or really anything based in Chromium, to search the web and figure out how to do it. I don't know how to do it. I will probably type in something like "how to add is functionality into shell script bash" into my search bar. I don't know what will pop up, but it might be something cool.
+3. (yeehaw)
+Week 1: 
+	(S) Need to do basic implementation 
+	(T) do it 
+	(a) doing it? 
+	(R) it's done!
+Week 2: 
+	(S) neeed to add piping and redirection 
+	(T) do that 
+	(a) im probably doing that 
+	(R) it's not done? no wait it is done
+Week 3: 
+	(S) Need to implement the rest of it
+	(T) get apple juice from the store
+	(A) implemented the thingy thing
+	(R) now the entire thing is done like a bun on a gun run looking like ms. chun
+
+
+1. What hurdles have you faced so far?
+	- Deciding exactly what I wanted to implement into the simple script.
+2. How did you solve them?
+	- I haven't entirely, but I am thinking about capping what is in there for now.
+3. What are your next steps?
+	- Try my best, but like double that. [Now it's like 3.82 times that]
+
+(I didn't really know what to add to this)
